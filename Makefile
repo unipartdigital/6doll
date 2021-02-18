@@ -1,6 +1,6 @@
 ARCH	= ramips
 TARGET	= mt76x8
-PROFILE	= glinet_microuter-n300
+PROFILE	= glinet_vixmini
 HOST	= Linux-x86_64
 
 BASE_URL = https://downloads.openwrt.org/snapshots/targets/$(ARCH)/$(TARGET)
