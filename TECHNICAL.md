@@ -55,7 +55,7 @@ Troubleshooting
    find printed on the case label.
 
 
-[sysimage]: https://github.com/unipartdigital/6doll/releases/latest/download/openwrt-ramips-mt76x8-glinet_microuter-n300-squashfs-sysupgrade.bin
+[sysimage]: https://github.com/unipartdigital/6doll/releases/download/v1.1/openwrt-ramips-mt76x8-glinet_vixmini-squashfs-sysupgrade.bin
 [openwrt]: https://openwrt.org/
 [teredo]: https://en.wikipedia.org/wiki/Teredo_tunneling
 [ula]: https://en.wikipedia.org/wiki/Unique_local_address
